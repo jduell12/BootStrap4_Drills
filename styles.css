@@ -1,6 +1,10 @@
-.col-12{
+.card-title, .card-text{
+    text-align:center;
+}
+
+.form {
+    display: block;
     text-align: center;
-    margin: 5em 0;
 }
 
 body{
@@ -9,4 +13,5 @@ body{
 
 form {
     margin: 2em 0;
+    
 }
